@@ -10,7 +10,7 @@
     "changefreq": "weekly"
   },
   "homepages": [],
-  "source_base_path": "D:/a/ExampleSnippets-TrackerRelated/ExampleSnippets-TrackerRelated/Documentation",
+  "source_base_path": "D:/a/ExampleSnippets-Tracking/ExampleSnippets-Tracking/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "lw4zMhRJWTs60dKcPMQIpX1+F1Iub1381aZQhP2SuHA="
+          "hash": "hKxiKlYDfpeILh3eYk4iG4hZjBM8nDTBWn3GNd2A57o="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/JMRSamples.html",
-          "hash": "VvC0Jr/xERfK4WDaJ68qmG5cHrgjOQb8NhLJvEuzEps="
+          "hash": "K0UUSMI9T2/wuT7jE2l61b9H0ruF1EyLYPosSwEBoPA="
         }
       },
       "is_incremental": false,
