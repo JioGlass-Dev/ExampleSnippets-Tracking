@@ -1,0 +1,47 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: JMRSDKExampleSnippets.FollowMe
+  name: JMRSDKExampleSnippets.FollowMe
+  href: api/JMRSDKExampleSnippets.FollowMe.html
+  commentId: N:JMRSDKExampleSnippets.FollowMe
+  fullName: JMRSDKExampleSnippets.FollowMe
+  nameWithType: JMRSDKExampleSnippets.FollowMe
+- uid: JMRSDKExampleSnippets.FollowMe.FollowMe
+  name: FollowMe
+  href: api/JMRSDKExampleSnippets.FollowMe.FollowMe.html
+  commentId: T:JMRSDKExampleSnippets.FollowMe.FollowMe
+  fullName: JMRSDKExampleSnippets.FollowMe.FollowMe
+  nameWithType: FollowMe
+- uid: JMRSDKExampleSnippets.FollowMe.FollowMe.Follow
+  name: Follow()
+  href: api/JMRSDKExampleSnippets.FollowMe.FollowMe.html#JMRSDKExampleSnippets_FollowMe_FollowMe_Follow
+  commentId: M:JMRSDKExampleSnippets.FollowMe.FollowMe.Follow
+  fullName: JMRSDKExampleSnippets.FollowMe.FollowMe.Follow()
+  nameWithType: FollowMe.Follow()
+- uid: JMRSDKExampleSnippets.FollowMe.FollowMe.Follow*
+  name: Follow
+  href: api/JMRSDKExampleSnippets.FollowMe.FollowMe.html#JMRSDKExampleSnippets_FollowMe_FollowMe_Follow_
+  commentId: Overload:JMRSDKExampleSnippets.FollowMe.FollowMe.Follow
+  isSpec: "True"
+  fullName: JMRSDKExampleSnippets.FollowMe.FollowMe.Follow
+  nameWithType: FollowMe.Follow
+- uid: JMRSDKExampleSnippets.FollowMe.FollowMe.SetTarget
+  name: SetTarget()
+  href: api/JMRSDKExampleSnippets.FollowMe.FollowMe.html#JMRSDKExampleSnippets_FollowMe_FollowMe_SetTarget
+  commentId: M:JMRSDKExampleSnippets.FollowMe.FollowMe.SetTarget
+  fullName: JMRSDKExampleSnippets.FollowMe.FollowMe.SetTarget()
+  nameWithType: FollowMe.SetTarget()
+- uid: JMRSDKExampleSnippets.FollowMe.FollowMe.SetTarget*
+  name: SetTarget
+  href: api/JMRSDKExampleSnippets.FollowMe.FollowMe.html#JMRSDKExampleSnippets_FollowMe_FollowMe_SetTarget_
+  commentId: Overload:JMRSDKExampleSnippets.FollowMe.FollowMe.SetTarget
+  isSpec: "True"
+  fullName: JMRSDKExampleSnippets.FollowMe.FollowMe.SetTarget
+  nameWithType: FollowMe.SetTarget
+- uid: JMRSDKExampleSnippets.FollowMe.FollowMe.speed
+  name: speed
+  href: api/JMRSDKExampleSnippets.FollowMe.FollowMe.html#JMRSDKExampleSnippets_FollowMe_FollowMe_speed
+  commentId: F:JMRSDKExampleSnippets.FollowMe.FollowMe.speed
+  fullName: JMRSDKExampleSnippets.FollowMe.FollowMe.speed
+  nameWithType: FollowMe.speed

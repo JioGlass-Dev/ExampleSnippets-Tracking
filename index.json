@@ -1,0 +1,22 @@
+{
+  "api/JMRSDKExampleSnippets.FollowMe.FollowMe.html": {
+    "href": "api/JMRSDKExampleSnippets.FollowMe.FollowMe.html",
+    "title": "Class FollowMe | JMR Samples",
+    "keywords": "Class FollowMe The FollowMe class handles the functionality for making the gameObject follow the user. Inheritance Object FollowMe Namespace : JMRSDKExampleSnippets.FollowMe Assembly : cs.temp.dll.dll Syntax public class FollowMe : MonoBehaviour Remarks Create an Empty gameObject called 'Follower' and set its position to the position of the JMRMixedRealityPrefab. Attach the FollowMe Script to 'Follower'. Add the other gameObjects as a child of 'Follower' and give it a required offset Fields speed The speed the gameObjects will follow the user Declaration public float speed Field Value Type Description Single Methods Follow() Handles the following functionality Declaration public void Follow() SetTarget() Sets the target to the Head Transform of the JMRMixedReality Declaration public void SetTarget()"
+  },
+  "api/JMRSDKExampleSnippets.FollowMe.html": {
+    "href": "api/JMRSDKExampleSnippets.FollowMe.html",
+    "title": "Namespace JMRSDKExampleSnippets.FollowMe | JMR Samples",
+    "keywords": "Namespace JMRSDKExampleSnippets.FollowMe Classes FollowMe The FollowMe class handles the functionality for making the gameObject follow the user."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "ExampleSnippets-TrackerRelated | JMR Samples",
+    "keywords": "ExampleSnippets-TrackerRelated Lazy follow and Look At User"
+  },
+  "manual/JMRSamples.html": {
+    "href": "manual/JMRSamples.html",
+    "title": "Sample | JMR Samples",
+    "keywords": "Sample"
+  }
+}
